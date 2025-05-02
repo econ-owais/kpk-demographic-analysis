@@ -1,3 +1,5 @@
+# important note:
+"To view the interactive version, simply click the download button at the top right of the GitHub page."
 # 📊 Project Overview-
 
  This project analyzes district-wise population data from Khyber Pakhtunkhwa (KPK), Pakistan. Using interactive plots and data tables, I explore demographic patterns across the province.
