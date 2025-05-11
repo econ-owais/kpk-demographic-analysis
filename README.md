@@ -5,9 +5,7 @@
  This project analyzes district-wise population data from Khyber Pakhtunkhwa (KPK), Pakistan. I explore demographic patterns across the province using interactive plots and data tables.
 
 📂 Dataset
-{r
-Copy
-Edit
+ ("demographics of kpk"
 # Load the Excel file 
 data <- read_excel("population_district_wise_kpk.xlsx")
 datatable(head(data), options = list(pageLength = 5), caption = "Sample of the Dataset")
